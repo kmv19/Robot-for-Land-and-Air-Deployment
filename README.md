@@ -1,6 +1,7 @@
 # Robot-for-Land-and-Air-Deployment
-![20240515_165440](https://github.com/kmv19/Robot-for-Land-and-Air-Deployment/assets/143374982/3af40708-c8f1-4237-b1de-0a2066453dde)
 This project involves the development of a robot that can transition between terrestrial and aerial modes of locomotion. The integration of a quadrotor with a wheeled mobile robot allows it to handle various terrains and obstacles. The design, testing, and results demonstrate the robot's effectiveness and potential for future applications in challenging environments.
+
+![20240515_165440](https://github.com/kmv19/Robot-for-Land-and-Air-Deployment/assets/143374982/3af40708-c8f1-4237-b1de-0a2066453dde)
 
 ## Hardware and Electrical Circuitry
 ### Electronic Components
@@ -14,6 +15,8 @@ This project involves the development of a robot that can transition between ter
     DC Motor Driver (12V) x1
     Servo SG90 (5V) x1
     DC Motor (12V) x2
+![20240515_165458](https://github.com/kmv19/Robot-for-Land-and-Air-Deployment/assets/143374982/3c88147d-4fc1-4d67-9fe7-c7a58fba3899)
+![20240515_165552](https://github.com/kmv19/Robot-for-Land-and-Air-Deployment/assets/143374982/37652f6b-4501-4d68-8b2c-654ae8546004)
 
 ### Control System
 
