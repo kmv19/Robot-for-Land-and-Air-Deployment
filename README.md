@@ -27,7 +27,3 @@ This project involves the development of a robot that can transition between ter
     Spur Gears (15 and 30 teeth, Module 2, Pressure Angle 20°)
     Steering Mechanism (worm gear, spur gears, links)
     Chassis and Base Plate
-
-## Experiment Setup and Discussion
-
-The prototype was tested for its performance in both land and air modes. Control systems included the Arduino UNO for ground operations and the MPU 6050 for flight. An Android app was used for joystick control.
